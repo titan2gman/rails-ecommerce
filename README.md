@@ -48,4 +48,3 @@ Before you get started, the following needs to be installed:
 
   ```bash
   bin/dev
-
