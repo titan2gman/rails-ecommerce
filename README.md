@@ -1,5 +1,6 @@
 # E-commerce solution based on Ruby on Rails 7
 
+
 ## Tech Stack
 
 - Ruby 3.x
