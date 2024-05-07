@@ -19,7 +19,6 @@ gem "jsbundling-rails", "~> 1.0"
 gem "cssbundling-rails", "~> 1.0"
 gem "stimulus-rails", "~> 1.0"
 
-
 group :development, :test do
   gem 'dotenv-rails'
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
